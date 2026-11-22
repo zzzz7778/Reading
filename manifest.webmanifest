@@ -1,0 +1,25 @@
+{
+  "name": "读自己的生活 · 42天阅读打卡",
+  "short_name": "阅读打卡",
+  "description": "42天，3本书，每天40分钟。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f1",
+  "theme_color": "#2d6651",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
